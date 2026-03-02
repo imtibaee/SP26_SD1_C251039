@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class Q2{
     public static void main(String[] args) {
         int[] arr = {10, 25, 7, 40, 15};
@@ -9,4 +10,5 @@ public class Q2{
         }
         System.out.println("Largest number is " + max);
     }
+
 }
